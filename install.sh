@@ -3,4 +3,4 @@
 rm -rf ~/.config/tmux
 cp -r ./tmux ~/.config/
 
-rm ~/.tmux.conf
+rm -f ~/.tmux.conf
